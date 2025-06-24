@@ -22,9 +22,14 @@ c) Information Collected by Third-Party Services: The App is supported by advert
 
 Service Provider: Google AdMob.
 Data They May Collect:
+
 Identifiers: If you grant permission via the App Tracking Transparency (ATT) prompt, the Identifier for Advertisers (IDFA) may be collected.
 Device and Network Information: IP address, device type, operating system version, and network information.
-Usage Information: Your interactions with the ads shown within the App (e.g., views, clicks).
+Usage Information: Your interactions with the ads shown within the App (e.g., views, clicks), also known as Product Interaction.
+Advertising Data: Information about the advertisements you have seen within the App.
+Location Information: Approximate location (Coarse Location) may be collected to serve geographically relevant ads.
+Diagnostic Information: Crash data (such as crash logs) and performance data (such as app launch time or ad loading speed) may be collected to ensure the stability and functionality of the advertising service.
+
 3. How We Use Your Data
 
 We use the information we handle for the following purposes:
